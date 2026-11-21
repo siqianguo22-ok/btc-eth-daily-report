@@ -1,0 +1,31 @@
+{
+  "window": {
+    "start": "2026-11-20T08:00:00+08:00",
+    "end": "2026-11-21T08:00:00+08:00",
+    "note": "北京时间，24 小时窗口 [start, end)；数据源优先级 gateio > coinbase > kraken"
+  },
+  "data": {
+    "BTC": {
+      "high": 62635.9,
+      "high_time": "11-20 09:00",
+      "low": 57750.0,
+      "low_time": "11-21 03:00",
+      "first_open": 62148.9,
+      "last_close": 59166.9,
+      "change_pct": -4.8,
+      "bars": 24,
+      "source": "gateio"
+    },
+    "ETH": {
+      "high": 1770.68,
+      "high_time": "11-20 09:00",
+      "low": 1581.17,
+      "low_time": "11-21 03:00",
+      "first_open": 1757.4,
+      "last_close": 1622.7,
+      "change_pct": -7.66,
+      "bars": 24,
+      "source": "gateio"
+    }
+  }
+}
